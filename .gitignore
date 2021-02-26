@@ -1,2 +1,4 @@
 config/
 venv/
+.idea/
+.ipynb_checkpoints/
